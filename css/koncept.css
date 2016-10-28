@@ -23,7 +23,7 @@ body {
 }
 
 .jumbo{
-    padding-top:30px;padding-bottom:30px;margin-bottom:30px;color:inherit;background-color:#eee
+    padding-top:30px;padding-bottom:30px;margin-bottom:0px;color:inherit;background-color:#eee
 }
 .jumbo .h1,.jumbo h1{
     color:inherit

@@ -32,7 +32,7 @@
   </head>
 
   <body>
-    <div id="ionic-header"> </div>
+    <div class="ionic-header"> </div>
     <!-- Static navbar -->
     <nav class="navbar navbar-default navbar-static-top">
       <div class="container-fluid">
