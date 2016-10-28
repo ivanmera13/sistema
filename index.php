@@ -67,6 +67,42 @@
     
     <div class="separator"></div>
     <div></div>
+		
+		<footer>
+			<div>
+				<div class="collapse navbar-collapse foot_bg" id="footer-navbar">
+					<ul class="nav navbar-nav navbar-left footer__links--social">
+						<li>
+							<a href="mailto:hi@algo.com" class="bzicon bzicon-envelope" title="Email Us @Breezi" target="_blank">
+							<i></i>
+							</a>
+						</li>
+						<li>
+							<a href="http://twitter.com/breeziapp" class="bzicon bzicon-twitter" title="Follow @Breeziapp on Twitter" target="_blank">
+							<i></i>
+							</a>
+						</li>
+						<li>
+							<a href="http://www.facebook.com/breeziapp" class="bzicon bzicon-facebook" title="Like Breezi on Facebook" target="_blank">
+							<i></i>
+							</a>
+						</li>
+						<li>
+							<a href="https://plus.google.com/106706184949907691639/" class="bzicon bzicon-gplus" title="Follow @Breeziapp on GPlus" target="_blank">
+							<i></i>
+							</a>
+						</li>
+					</ul>
+					<ul class="nav navbar-nav navbar-right footer__links--nav foot_copyrigth">
+						<li class="dropdown">
+							<span> &copy; 2016 xxxx Media, Inc. All Rights Reserved. </span>
+						</li>
+						<li>&nbsp;</li>
+					</ul>
+				</div>
+			</div>
+		</footer>
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
