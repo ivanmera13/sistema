@@ -57,51 +57,63 @@
       </div>
     </nav>
 
-    <div class="jumbo background-showcase">
-      <div class="container">
-        <h1>Hello, world!</h1>
-        <p>Hello, world!.</p>
-        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+    <header id="cta" class="background-showcase bgCta">
+        <div class="container">
+            <div id="cta-text" class="row">
+                <div class="col-lg-6">
+                    <h1>Hello, world!</h1>
+                    <p class="lead">Hello, world!.
+                        mobb is a powerful drag-and-drop builder for<br> creating cross-platform HTML5 mobile apps and<br>
+                        websites. It's simple, easy to use, and <strong>so damn useful</strong>.
+                    </p>
+                    <p><a class="btn btn-success btn-lg" href="#" role="button">Learn more</a></p>
+                </div>
+                <div class="col-lg-6"></div>
+            </div>
       </div>
-    </div>
+    </header>
     
     <div class="separator"></div>
-    <div></div>
-		
-		<footer>
-			<div>
-				<div class="collapse navbar-collapse foot_bg" id="footer-navbar">
-					<ul class="nav navbar-nav navbar-left footer__links--social">
-						<li>
-							<a href="mailto:hi@algo.com" class="bzicon bzicon-envelope" title="Email Us @Breezi" target="_blank">
-							<i></i>
-							</a>
-						</li>
-						<li>
-							<a href="http://twitter.com/breeziapp" class="bzicon bzicon-twitter" title="Follow @Breeziapp on Twitter" target="_blank">
-							<i></i>
-							</a>
-						</li>
-						<li>
-							<a href="http://www.facebook.com/breeziapp" class="bzicon bzicon-facebook" title="Like Breezi on Facebook" target="_blank">
-							<i></i>
-							</a>
-						</li>
-						<li>
-							<a href="https://plus.google.com/106706184949907691639/" class="bzicon bzicon-gplus" title="Follow @Breeziapp on GPlus" target="_blank">
-							<i></i>
-							</a>
-						</li>
-					</ul>
-					<ul class="nav navbar-nav navbar-right footer__links--nav foot_copyrigth">
-						<li class="dropdown">
-							<span> &copy; 2016 xxxx Media, Inc. All Rights Reserved. </span>
-						</li>
-						<li>&nbsp;</li>
-					</ul>
-				</div>
-			</div>
-		</footer>
+    <!-- contenedor -->
+    <div class="bs-docs-featurette">
+        <div class="container">
+            <h2 class="bs-docs-featurette-title">Designed for everyone, everywhere.</h2>
+            <p class="lead">
+                Bootstrap makes front-end web development faster and easier. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.</p>
+        </div>
+    </div>
+	<!-- contenedor -->
+    <footer>
+        <div class="collapse navbar-collapse foot_bg" id="footer-navbar">
+            <ul class="nav navbar-nav navbar-left footer__links--social">
+                <li>
+                    <a href="mailto:hi@algo.com" class="kcept kcept-envelope" title="Email Us @KonceptDesing" target="_blank">
+                    <i></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://twitter.com/breeziapp" class="kcept kcept-twitter" title="Follow @KonceptDesing on Twitter" target="_blank">
+                    <i></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.facebook.com/breeziapp" class="kcept kcept-facebook" title="Like KonceptDesing on Facebook" target="_blank">
+                    <i></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://plus.google.com/106706184949907691639/" class="kcept kcept-gplus" title="Follow @KonceptDesing on GPlus" target="_blank">
+                    <i></i>
+                    </a>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right footer__links--nav foot_copyrigth">
+                <li class="footer_ref">
+                    <span> &copy; 2016 xxxx Media, Inc. All Rights Reserved. </span>
+                </li>
+            </ul>
+        </div>
+    </footer>
 
 
     <!-- Bootstrap core JavaScript
