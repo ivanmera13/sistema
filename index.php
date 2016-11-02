@@ -82,6 +82,7 @@
                 Bootstrap makes front-end web development faster and easier. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.</p>
         </div>
     </div>
+	<div>algo ne</div>
 	<!-- contenedor -->
     <footer>
         <div class="collapse navbar-collapse foot_bg" id="footer-navbar">
