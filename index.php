@@ -66,7 +66,7 @@
                         mobb is a powerful drag-and-drop builder for<br> creating cross-platform HTML5 mobile apps and<br>
                         websites. It's simple, easy to use, and <strong>so damn useful</strong>.
                     </p>
-                    <p><a class="btn btn-success btn-lg" href="#" role="button">Learn more</a></p>
+                    <p><a class="btn btn-large btn-success proxima-bold" href="#" role="button">Learn more</a></p>
                 </div>
                 <div class="col-lg-6"></div>
             </div>
