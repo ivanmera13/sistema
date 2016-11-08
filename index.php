@@ -99,7 +99,8 @@
 				</div>
 			</div>
 			<hr class="half-rule">
-			<p class="lead">Bootstrap is open source. It's hosted, developed, and maintained on GitHub.</p>
+			<p class="lead">Bootstrap is open source. It's hosted, developed, and maintained on GitHub. Bootstrap is open source. It's hosted, developed, and maintained on GitHub.
+			Bootstrap is open source. It's hosted, developed, and maintained on GitHub.</p>
 		</div>
     </div>
 	<!-- contenedor -->
@@ -134,7 +135,6 @@
             </ul>
         </div>
     </footer>
-
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
