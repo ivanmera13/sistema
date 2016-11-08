@@ -66,7 +66,7 @@
                         mobb is a powerful drag-and-drop builder for<br> creating cross-platform HTML5 mobile apps and<br>
                         websites. It's simple, easy to use, and <strong>so damn useful</strong>.
                     </p>
-                    <p><a class="btn btn-success btn-lg" href="#" role="button">Learn more</a></p>
+                    <p><a class="btn btn-large btn-success proxima-bold" href="#" role="button">Learn more</a></p>
                 </div>
                 <div class="col-lg-6"></div>
             </div>
@@ -80,9 +80,29 @@
             <h2 class="bs-docs-featurette-title">Designed for everyone, everywhere.</h2>
             <p class="lead">
                 Bootstrap makes front-end web development faster and easier. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.</p>
-        </div>
+			<hr class="half-rule">
+			<div class="row">
+				<div class="col-sm-4">
+				  <!--img src="assets/img/sass-less.png" alt="Sass and Less support" class="img-responsive"-->
+				  <h3>Preprocessors</h3>
+				  <p>In addition to vanilla CSS, Bootstrap includes support for the two most popular CSS preprocessors, <a href="../css/#less">Less</a> and <a href="../css/#sass">Sass</a>.</p>
+				</div>
+				<div class="col-sm-4">
+				  <!--img src="assets/img/devices.png" alt="Responsive across devices" class="img-responsive"-->
+				  <h3>One framework, every device.</h3>
+				  <p>Bootstrap easily and efficiently scales your project with one code base, from phones to tablets to desktops.</p>
+				</div>
+				<div class="col-sm-4">
+				  <!--img src="assets/img/components.png" alt="Components" class="img-responsive"-->
+				  <h3>Comprehensive docs</h3>
+				  <p>With Bootstrap, you get extensive and beautiful documentation with hundreds of live examples, code snippets, and more.</p>
+				</div>
+			</div>
+			<hr class="half-rule">
+			<p class="lead">Bootstrap is open source. It's hosted, developed, and maintained on GitHub. Bootstrap is open source. It's hosted, developed, and maintained on GitHub.
+			Bootstrap is open source. It's hosted, developed, and maintained on GitHub.</p>
+		</div>
     </div>
-	<div>algo ne</div>
 	<!-- contenedor -->
     <footer>
         <div class="collapse navbar-collapse foot_bg" id="footer-navbar">
@@ -115,7 +135,6 @@
             </ul>
         </div>
     </footer>
-
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
